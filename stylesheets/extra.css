@@ -1,0 +1,17 @@
+@page {
+    size: a4 portrait;
+    margin: 25mm 10mm 25mm 10mm;
+    counter-increment: page;
+    font-family: "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei Mono", "Material Icons", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    white-space: pre;
+    color: grey;
+    @top-left {
+        content: '© 2018 Tangramor';
+    }
+    @top-center {
+        content: string(chapter);
+    }
+    @top-right {
+        content: '页：' counter(page);
+    }
+}
