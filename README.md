@@ -118,8 +118,8 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
 
 关注我们，获取更多计算机视觉教程，资源。
 
-<div  align="center">
-< img src="https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg" width=300px height=300px>
+<div align="center">
+<img src="https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg" width=300px height=300px>
 </div>
 
 OpenCV 中文官方文档
