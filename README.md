@@ -18,7 +18,7 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
 
 *   <span class="caption-text">OpenCV简介</span>
 
-    * [0_OpenCV-Python Tutorials](http://www.woshicver.com/FirstSection/0_OpenCV-Python\ Tutorials/)
+    * [0_OpenCV-Python Tutorials](http://www.woshicver.com/FirstSection/0_OpenCV-Python%20Tutorials/)
     
 *   <span class="caption-text">OpenCV安装</span>
 
