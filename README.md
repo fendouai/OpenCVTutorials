@@ -112,8 +112,10 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
 
     *   [10_1_级联分类器](http://www.woshicver.com/Eleventh/10_1_级联分类器/)
     *   [10_2_级联分类器训练](http://www.woshicver.com/Eleventh/10_2_级联分类器训练/)
-    *   <span class="caption-text">OpenCV-Python Binding</span>
-    *   [11_1_OpenCV-Python Bindings](http://www.woshicver.com/Twelfth/11_1_OpenCV-Python Bindings/)
+    
+*   <span class="caption-text">OpenCV-Python Binding</span>
+
+    *   [11_1_OpenCV-Python Bindings](http://www.woshicver.com/Twelfth/11_1_OpenCV-Python%20Bindings/)
 
 
 关注我们，获取更多计算机视觉教程，资源。
