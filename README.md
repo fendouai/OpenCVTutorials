@@ -9,6 +9,7 @@ OpenCV-Python Tutorials是官方提供的文档，其内容全面、简单易懂
 2014年段力辉在当时已翻译过OpenCV3.0，但时隔五年，如今的OpenCV4.1中许多函数和内容已经有所更新，因此有必要对该官方文档再进行一次翻译。
 
 翻译过程中难免有所疏漏，如发现错误，希望大家指出，谢谢支持。
+
 OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutorial_py_root.html
 
 # 目录
@@ -174,7 +175,7 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
   
 关注我们，获取更多计算机视觉教程，资源。
 
-![https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg](https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg =300x400)
+![https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg](https://panchuang.net/wp-content/uploads/2019/08/WechatIMG10994.jpeg)
 
 OpenCV 中文官方文档
 
