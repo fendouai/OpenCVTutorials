@@ -8,6 +8,14 @@
 
 OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutorial_py_root.html
 
+## 产品推荐
+
+### [Lynote AI Humanzier](https://lynote.ai/ai-humanizer)
+
+Best AI Humanizer Free Online Tools
+
+GitHub：https://github.com/lynote-ai/humanize-text
+
 # 目录
 
 ### [OpenCV中文官方文档](http://www.woshicver.com/.)
